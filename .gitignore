@@ -6,3 +6,4 @@
 .DS_Store
 /build
 /captures
+/app/src/test/java/com/raja_dev/permissiontest/*.java
